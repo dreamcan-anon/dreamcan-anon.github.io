@@ -1,0 +1,174 @@
+{
+  "numerical_source": "DreamCan_ICRA.pdf (supplied manuscript); not earlier repository results",
+  "assets": {
+    "videos/folding.mp4": {
+      "source": "video.pptx:ppt/media/media1.mp4",
+      "slides": "1, 25",
+      "description": "Real robot; deck labels playback as 4\u00d7"
+    },
+    "videos/line.mp4": {
+      "source": "video.pptx:ppt/media/media3.mp4",
+      "slides": "1, 29",
+      "description": "Real robot; deck labels playback as 4\u00d7"
+    },
+    "videos/packing.mp4": {
+      "source": "video.pptx:ppt/media/media5.mp4",
+      "slides": "1, 27",
+      "description": "Real robot; deck labels playback as 3\u00d7"
+    },
+    "videos/language-region.mp4": {
+      "source": "video.pptx:ppt/media/media16.mp4",
+      "slides": "17",
+      "description": "Generated sparse plan, not robot execution"
+    },
+    "videos/language-line.mp4": {
+      "source": "video.pptx:ppt/media/media17.mp4",
+      "slides": "17, 18",
+      "description": "Generated sparse plan, not robot execution"
+    },
+    "videos/language-shape.mp4": {
+      "source": "video.pptx:ppt/media/media18.mp4",
+      "slides": "17",
+      "description": "Generated sparse plan, not robot execution"
+    },
+    "videos/dense-line.mp4": {
+      "source": "video.pptx:ppt/media/media20.mp4",
+      "slides": "18",
+      "description": "Dense generated plan"
+    },
+    "videos/uniform-line.mp4": {
+      "source": "video.pptx:ppt/media/media19.mp4",
+      "slides": "18",
+      "description": "Uniform-subgoal generated plan"
+    },
+    "videos/search-1.mp4": {
+      "source": "video.pptx:ppt/media/media21.mp4",
+      "slides": "19",
+      "description": "Generated plan; 1 generator call"
+    },
+    "videos/search-2.mp4": {
+      "source": "video.pptx:ppt/media/media22.mp4",
+      "slides": "19",
+      "description": "Generated plan; 2 generator calls"
+    },
+    "videos/search-4.mp4": {
+      "source": "video.pptx:ppt/media/media23.mp4",
+      "slides": "19",
+      "description": "Generated plan; 4 generator calls"
+    },
+    "videos/search-8.mp4": {
+      "source": "video.pptx:ppt/media/media24.mp4",
+      "slides": "19",
+      "description": "Generated plan; 8 generator calls"
+    },
+    "videos/libero-stove.mp4": {
+      "source": "video.pptx:ppt/media/media30.mp4",
+      "slides": "23",
+      "description": "LIBERO execution and generated subgoal visualization"
+    },
+    "videos/libero-microwave.mp4": {
+      "source": "video.pptx:ppt/media/media31.mp4",
+      "slides": "23",
+      "description": "LIBERO execution and generated subgoal visualization"
+    },
+    "videos/steer-left.mp4": {
+      "source": "video.pptx:ppt/media/media36.mp4",
+      "slides": "28",
+      "description": "VLM-steered generated plan; bread down, cube top left, bear top right"
+    },
+    "videos/steer-up.mp4": {
+      "source": "video.pptx:ppt/media/media38.mp4",
+      "slides": "28",
+      "description": "VLM-steered generated plan; bread up, cube down left, bear down right"
+    },
+    "videos/steer-right.mp4": {
+      "source": "video.pptx:ppt/media/media37.mp4",
+      "slides": "28",
+      "description": "VLM-steered generated plan; bread down, bear top left, cube top right"
+    },
+    "images/robot-setup.webp": {
+      "source": "video.pptx:ppt/media/image109.png"
+    },
+    "images/overview.webp": {
+      "source": "DreamCan_ICRA.pdf, page 1",
+      "crop_points": [
+        54,
+        150,
+        559,
+        374
+      ]
+    },
+    "images/discovery.webp": {
+      "source": "DreamCan_ICRA.pdf, page 4",
+      "crop_points": [
+        55,
+        50,
+        559,
+        196
+      ]
+    },
+    "images/data-scaling.webp": {
+      "source": "DreamCan_ICRA.pdf, page 6",
+      "crop_points": [
+        313,
+        141,
+        560,
+        279
+      ]
+    },
+    "images/search-scaling.webp": {
+      "source": "DreamCan_ICRA.pdf, page 7",
+      "crop_points": [
+        54,
+        156,
+        300,
+        310
+      ]
+    },
+    "images/reachability.webp": {
+      "source": "DreamCan_ICRA.pdf, page 7",
+      "crop_points": [
+        54,
+        342,
+        300,
+        477
+      ]
+    },
+    "images/wan-goal-1.webp": {
+      "source": "video.pptx:ppt/media/image79.png"
+    },
+    "images/wan-goal-2.webp": {
+      "source": "video.pptx:ppt/media/image80.png"
+    },
+    "images/wan-goal-3.webp": {
+      "source": "video.pptx:ppt/media/image81.png"
+    },
+    "images/wan-goal-4.webp": {
+      "source": "video.pptx:ppt/media/image82.png"
+    },
+    "images/wan-goal-5.webp": {
+      "source": "video.pptx:ppt/media/image84.png"
+    },
+    "videos/value-training.mp4": {
+      "source": "video.pptx:ppt/media/media14.mp4",
+      "slides": "12, 13"
+    },
+    "videos/suboptimal-demo.mp4": {
+      "source": "video.pptx:ppt/media/media28.mp4",
+      "slides": "21"
+    },
+    "videos/reachability-demo.mp4": {
+      "source": "video.pptx:ppt/media/media29.mp4",
+      "slides": "22"
+    },
+    "videos/final_video.mp4": {
+      "source": "final_video.mp4",
+      "description": "Full introduction; original duration and audio retained; H.264/AAC, up to 1080p, faststart",
+      "duration_seconds": 187.008
+    },
+    "images/intro.webp": {
+      "source": "final_video.mp4",
+      "time_seconds": 0.5
+    }
+  }
+}
